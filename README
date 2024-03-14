@@ -1,8 +1,7 @@
 # OOP project
 
-https://github.com/aaaa/oop-project
-
 # application title
+ * เว็บไซต์เเนะนำการเเต่งตัวให้เข้ากับรูปร่างของเเต่ละบุคคล
 
 ## author: 
 
@@ -12,8 +11,15 @@ https://github.com/aaaa/oop-project
 # technology: [pygame/streamlit]
 
 # application description:
+  *เเอพลิเคชั่น streamlit ประมวณเเละเเสดงผลตามที่เลือกดังนี้
+1.เลือกรูปร่างของตัวเองจากเเท็บด้านซ้ายมือ
+2.คลิกปุ่ม "เเต่่งตัวยังไงดี"
+3.รายละเอียดเเสดงผลด้านล่าง
 
 ## presentation: [slide/canva/etc..] link [public/ubu]
+
+https://www.canva.com/design/DAF_feq-aNE/P04FiDZOFWBq8AxDBBD49w/view?utm_content=DAF_feq-aNE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 
 ## video: link [public/ubu]
 
